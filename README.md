@@ -1,12 +1,3 @@
-# Data and Code
-
-This repository provides the data and Python code supporting the study:
-
-**The coordinated mechanism of food security and agricultural carbon reduction and sink based on interpretable machine learning models**
-
-## Data
-
-The data cover 31 provincial-level regions in China from 2001 to 2022. The accompanying data files provide the observations used in the analysis and explanations of the variables.
 
 ## Code
 
