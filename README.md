@@ -37,6 +37,3 @@ The code uses the following Python packages:
 
 Install the required packages, download the data and code, and update the file paths in the script to match your local directory before running the analysis.
 
-## Citation
-
-If you use these data or code, please cite the associated paper. Full publication details will be added when available.
